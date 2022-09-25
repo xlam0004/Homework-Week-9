@@ -84,7 +84,7 @@
         },
 
         {
-            "data": {"url": "https://github.com/xlam0004/Homework-Week-9/blob/main/data/uk_states.csv"},
+            "data": {"url": "https://github.com/xlam0004/Homework-Week-9/blob/fa5034439cd3912f89da993a4774d22415bb4954/data/uk_states.csv"},
             "mark": 
             {
                 "type": "text",
@@ -101,7 +101,7 @@
         },
 
         {
-            "data": {"url": "https://github.com/xlam0004/Homework-Week-9/blob/main/data/england_region.csv"},
+            "data": {"url": "https://github.com/xlam0004/Homework-Week-9/blob/fa5034439cd3912f89da993a4774d22415bb4954/data/england_region.csv"},
             "mark": 
             {
                 "type": "text",
@@ -119,7 +119,7 @@
         },
 
         {
-            "data": {"url": "https://github.com/xlam0004/Homework-Week-9/blob/main/data/uk_universities_edited.csv"},
+            "data": {"url": "https://github.com/xlam0004/Homework-Week-9/blob/fa5034439cd3912f89da993a4774d22415bb4954/data/uk_universities_edited.csv"},
             "mark":
             {
                 "type": "circle", 
