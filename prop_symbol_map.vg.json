@@ -84,7 +84,7 @@
         },
 
         {
-            "data": {"url": "uk_states.csv"},
+            "data": {"url": "data/uk_states.csv"},
             "mark": 
             {
                 "type": "text",
@@ -101,7 +101,7 @@
         },
 
         {
-            "data": {"url": "england_region.csv"},
+            "data": {"url": "data/england_region.csv"},
             "mark": 
             {
                 "type": "text",
@@ -119,7 +119,7 @@
         },
 
         {
-            "data": {"url": "uk_universities_edited.csv"},
+            "data": {"url": "data/uk_universities_edited.csv"},
             "mark":
             {
                 "type": "circle", 
